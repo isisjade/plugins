@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a public respositry for the [8BIT](http://8bit.io) community and the [Standard](http://standardtheme.com) customers to openly contribute, maintain, share, and improve plugins specifically for Standard.
+This is a public repository for the [8BIT](http://8bit.io) community and the [Standard](http://standardtheme.com) customers to openly contribute, maintain, share, and improve plugins specifically for Standard.
 
 Note that all plugins must be compliant with Standard 3.
 
