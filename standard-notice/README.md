@@ -3,7 +3,12 @@
 Easily add short notices and announcements above posts. Displays on both the blog and in RSS feeds. Developed for [Standard](http://standardtheme.com) by [8BIT](http://8bit.io) but compatible with any theme.
 
 * [Tom McFarlin](http://tommcfarlin.com)
-* *License.* GPL and MIT
+* GPL
+
+## Screenshots
+
+![Plugin Dashboard](screenshot1.png)
+![Example Screenshot](screenshot2.png)
 
 ## Installation
 
