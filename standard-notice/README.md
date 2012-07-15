@@ -7,8 +7,8 @@ Easily add short notices and announcements above posts. Displays on both the blo
 
 ## Screenshots
 
-![Plugin Dashboard](screenshot1.png)
-![Example Screenshot](screenshot2.png)
+![Plugin Dashboard](https://github.com/eightbit/plugins/blob/master/standard-notice/screenshot1.png?raw=true)
+![Example Screenshot](https://github.com/eightbit/plugins/blob/master/standard-notice/screenshot2.png?raw=true)
 
 ## Installation
 
