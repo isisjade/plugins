@@ -7,8 +7,17 @@ Easily add short notices and announcements above posts. Displays on both the blo
 
 ## Screenshots
 
+### Plugin Dashboard
+
 ![Plugin Dashboard](https://github.com/eightbit/plugins/blob/master/standard-notice/screenshot1.png?raw=true)
+
+The Notice Dashboard appears below the post editor on the 'Add New' / 'Edit Post' pages.
+
+### Notice Display
+
 ![Example Screenshot](https://github.com/eightbit/plugins/blob/master/standard-notice/screenshot2.png?raw=true)
+
+An example of what the notice looks like on the blog. The same styles are applied in an RSS reader, as well.
 
 ## Installation
 
