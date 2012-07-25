@@ -23,7 +23,7 @@ In order for plugins to be accepted into this repository, they must adhere to th
 
 ### The Long Version
 
-8BIT has publishes [a series of blog posts](TODO) specifically targeting new developers or new users of GitHub. 
+8BIT has published [a series of blog posts](TODO) specifically targeting new developers or new users of GitHub. 
 
 To get started, be sure to read [the series](TODO) in its entirety.
 
