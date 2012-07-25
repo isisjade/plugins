@@ -36,6 +36,10 @@ An example of what the notice looks like on the blog. The same styles are applie
 
 ## Changelog
 
+_1.0.1 (2012.07.18)_
+
+* Removing the action to the_content_feed because it's duplicated by the_content
+
 _1.0 (2012.07.15)_
 
 * Official release

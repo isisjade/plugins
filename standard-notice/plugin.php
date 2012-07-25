@@ -3,7 +3,7 @@
 Plugin Name: Standard Notice
 Plugin URI: http://github.com/eightbit/plugins/standard-notice
 Description: Easily add short notices and announcements above posts. Displays on both the blog and in RSS feeds.
-Version: 1.0
+Version: 1.0.1
 Author: Tom McFarlin
 Author URI: http://tommcfarlin.com
 Author Email: tom@8bit.io
@@ -51,7 +51,6 @@ class Standard_Notice {
 		
 		// Append the notice before the content in both the blog and in the feed.
 	    add_filter( 'the_content', array( &$this, 'prepend_standard_notice' ) );
-	    add_filter( 'the_content_feed', array( &$this, 'prepend_standard_notice' ) );
 
 	} // end constructor
 	
