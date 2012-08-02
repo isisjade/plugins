@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Standard Digg Digg
-Plugin URI: http://github.com/eightbit/standard-digg-digg
+Plugin URI: https://github.com/eightbit/plugins/tree/master/standard-digg-digg
 Description: Repositions the Digg Digg sharer based on the post's format.
 Version: 0.1
 Author: Tom McFarlin
