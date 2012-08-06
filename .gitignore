@@ -4,3 +4,10 @@ rtl-tester/readme.txt
 rtl-tester/rtl-tester.php
 rtl-tester/rtl-tester.pot
 digg-digg/*
+developer/*
+wordpress-beta-tester/*
+debug-bar/*
+log-deprecated-notices/*
+monster-widget/*
+rewrite-rules-inspector/*
+debug-bar-cron/*
